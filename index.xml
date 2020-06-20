@@ -6,10 +6,29 @@
     <description>Recent content in My Portfolio on Sandeepan Paul</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 May 2020 11:00:59 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sandeepan1999.github.io/Project-Portfolio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Project: Detect COVID-19 misinformation with NLP</title>
+      <link>https://sandeepan1999.github.io/Project-Portfolio/post/project-5/</link>
+      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sandeepan1999.github.io/Project-Portfolio/post/project-5/</guid>
+      <description>Created a tool that automatically detects whether an article is Genuine or Fake. Explored over 1,100 news articles and social network posts on COVID-19 from a variety of new sources. Engineered features from the title and text of each article. Optimised a Support Vector Machine (SVM) model with a linear kernel and 10-fold cross-validation to prevent overfitting.
+  The Github link for this Repository can be found here.</description>
+    </item>
+    
+    <item>
+      <title>Project: Time Series Forecasting</title>
+      <link>https://sandeepan1999.github.io/Project-Portfolio/post/project-4/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sandeepan1999.github.io/Project-Portfolio/post/project-4/</guid>
+      <description>Forecasted Retail Sales Time Series using the ARIMA and PROPHET models. Preprocessed the dataset and selected relevant features. Compared forecasts between two features.    The Github link for this Repository can be found here.</description>
+    </item>
     
     <item>
       <title>Project: Creating Customer Segments</title>
@@ -23,19 +42,10 @@
     <item>
       <title>Project: Predicting House Prices</title>
       <link>https://sandeepan1999.github.io/Project-Portfolio/post/project-3/</link>
-      <pubDate>Thu, 21 May 2020 11:13:32 -0400</pubDate>
+      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://sandeepan1999.github.io/Project-Portfolio/post/project-3/</guid>
       <description>Created a tool that predicts housing prices to help customers negotiate the price when they buy a house. Converted continuos data into discrete values. Replaced missing values with the median value using SimpleImputer. Built a pipeline for the model. Optimised Linear, Decision Tree and Random * Forest Regressors using GridsearchCV to reach the best model. Evaluated the model on the test set.    The Github link for this Repository can be found here.</description>
-    </item>
-    
-    <item>
-      <title>Project: Time Series Forecasting</title>
-      <link>https://sandeepan1999.github.io/Project-Portfolio/post/project-4/</link>
-      <pubDate>Wed, 13 May 2020 11:13:32 -0400</pubDate>
-      
-      <guid>https://sandeepan1999.github.io/Project-Portfolio/post/project-4/</guid>
-      <description>Forecasted Retail Sales Time Series using the ARIMA and PROPHET models. Preprocessed the dataset and selected relevant features. Compared forecasts between two features.    The Github link for this Repository can be found here.</description>
     </item>
     
     <item>
